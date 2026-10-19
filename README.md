@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✍️ Plataforma de Redação — API
+# ✍️ Plataforma de Redação - API
 
 **API REST para gestão de um curso preparatório de redação no modelo do ENEM:**
 envio e correção de redações por competência, propostas de tema, simulados, turmas, frequência, pagamentos e videoaulas.
